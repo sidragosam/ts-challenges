@@ -1,13 +1,15 @@
-# Counter App
+# Guess the Number
 
-A simple and modern counter application built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**.
+A modern, professional, and accessible "Guess the Number" game built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**.
 
 ## Features
 
-- Increment and decrement the counter
-- Reset the counter to zero
-- Responsive and clean UI with Tailwind CSS
-- Accessible buttons with keyboard and screen reader support
+- Set a custom minimum and maximum range for the game
+- Intuitive, responsive, and accessible UI with Tailwind CSS
+- Clear feedback and area labels for a professional experience
+- Tracks number of attempts
+- Play again and reset options
+- Keyboard and screen reader friendly
 
 ## Getting Started
 
@@ -22,7 +24,7 @@ A simple and modern counter application built with **React**, **TypeScript**, **
 
    ```bash
    git clone https://github.com/sidragosam/ts-challenges
-   cd 1-counter
+   cd 2-guess-the-number
    ```
 
 2. Install dependencies:
@@ -47,17 +49,18 @@ Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
 ## Project Structure
 
-- `src/App.tsx`: Main counter component
-- `src/App.css`: Custom styles
+- `src/App.tsx`: Main application component
+- `src/index.css`: Tailwind and custom styles
 - `index.html`, `main.tsx`: Vite entry points
 
 ## Customization
 
-You can easily extend this app by adding more features, such as:
+You can extend this app by adding features such as:
 
-- Setting a maximum or minimum value
-- Adding step increments
-- Persisting the counter value
+- High score tracking
+- Timer or countdown
+- Difficulty levels
+- Sound effects or animations
 
 ## License
 

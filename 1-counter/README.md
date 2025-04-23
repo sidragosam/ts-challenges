@@ -48,7 +48,7 @@ Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 ## Project Structure
 
 - `src/App.tsx`: Main counter component
-- `src/App.css`: Custom styles
+- `src/index.css`: Custom styles
 - `index.html`, `main.tsx`: Vite entry points
 
 ## Customization
