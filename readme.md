@@ -58,3 +58,5 @@ Feel free to fork this repo and add your own challenges or improvements!
 ---
 
 Happy coding!
+
+[Inspiration](https://sadanandpai.github.io/frontend-mini-challenges/#/javascript)
